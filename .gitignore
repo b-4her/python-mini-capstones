@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store

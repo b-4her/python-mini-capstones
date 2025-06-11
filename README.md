@@ -6,11 +6,11 @@ These projects reflect my personal implementations of the course challenges. I d
 
 ## 📁 Project List
 
-- `flash-cards`
+- `flash-cards-app`
+- `quiz-app`
 - `password-manager`
 - `pomodoro-timer`
 - `pong-game`
-- `quiz-app`
 - `snake-game`
 - `turtle-crossing-game`
 
